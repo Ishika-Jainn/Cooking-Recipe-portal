@@ -49,26 +49,21 @@ Setup MySQL Database
 
 Create a database: recipe_db
 
-Run the SQL script located in /db/recipe_db.sql to create the recipes table.
+Run the SQL script 
 
 Start the Backend
 
-bash
-Copy
-Edit
+
 cd server
 npm install
 node server.js
 Start the Frontend
 
-bash
-Copy
-Edit
+
 cd client
 npm install
 npm run dev
-📸 Screenshots
-(Add screenshots of your UI here for better visual understanding)
+
 
 📄 License
 
