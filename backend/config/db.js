@@ -2,7 +2,7 @@ const mysql = require('mysql2');
 const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Ishika.520', 
+    password: 'your_sql_password', 
     database: 'my_new_recipe_db'
 });
 
