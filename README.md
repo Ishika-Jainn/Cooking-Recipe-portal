@@ -14,7 +14,6 @@ This portal serves as a centralized platform for sharing and managing cooking re
 
 - View all available cooking recipes
 - Add a new recipe (title, ingredients, instructions)
-- Delete an existing recipe
 - RESTful API integration between frontend and backend
 - Live data updates without page refresh
 - Responsive and clean UI
